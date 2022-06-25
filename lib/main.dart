@@ -151,10 +151,10 @@ class _MyHomePageState extends State<MyHomePage> {
                         ),
                       ),
                       SizedBox(
-                        width: 50,
+                        width: 25,
                       ),
                       Padding(
-                        padding: const EdgeInsets.only(right: 14.0),
+                        padding: const EdgeInsets.only(right: 20.0),
                         child: Image.network(
                             'https://ya-webdesign.com/transparent250_/adidas-shoes-png.png'),
                       ),
